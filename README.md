@@ -190,7 +190,7 @@ LEFT JOIN menu_items mi
 WHERE od.order_id IN (440, 2027, 1957, 330, 2675)
 GROUP BY mi.category
 ORDER BY num_items_in_category DESC;
-
+```
 ## 📁 Restaurant_Orders.zip
 
 [Restaurant_Orders.zip](https://github.com/user-attachments/files/23604243/Restaurant_Orders.zip)
